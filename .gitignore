@@ -12,6 +12,7 @@
 *.userprefs
 *.meta
 *.tmp
+*.log
  
 # need include the meta of file
 !*.*.meta
